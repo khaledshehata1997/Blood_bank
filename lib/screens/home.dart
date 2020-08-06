@@ -50,7 +50,7 @@ class _HomeState extends State<Home> {
                   child: TextFormField(
                     validator: (value){
                       if (value.isEmpty)
-                        return 'Name is Empty';
+                        return 'name is Empty';
                     },
                     onSaved: (value){
                       data.name=value;
