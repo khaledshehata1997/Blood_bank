@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277729952027",
+    "firebase_url": "https://blood-bank-a0e6d.firebaseio.com",
+    "project_id": "blood-bank-a0e6d",
+    "storage_bucket": "blood-bank-a0e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277729952027:android:77eda6b45308c829ae53be",
+        "android_client_info": {
+          "package_name": "com.engkhaled.flutter_blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277729952027-3huk6sgn6ut1j0ft58i2uvtlsllb52kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDf-0RUgpcy_olofYNuGylQvIM_AWvmUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277729952027-3huk6sgn6ut1j0ft58i2uvtlsllb52kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
